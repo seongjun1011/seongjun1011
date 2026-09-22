@@ -12,6 +12,8 @@ AI 소프트웨어를 전공하며 백엔드/시스템 설계에 관심이 많�
 ## 🛠 기술 스택
 
 **Language**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
@@ -22,6 +24,8 @@ AI 소프트웨어를 전공하며 백엔드/시스템 설계에 관심이 많�
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Database**
@@ -32,8 +36,12 @@ AI 소프트웨어를 전공하며 백엔드/시스템 설계에 관심이 많�
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
-**Infra**
+**Infra / os**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ---
 
@@ -45,7 +53,7 @@ AI 기반 식재료 유통기한 관리 & 레시피 추천 서비스 · 4인 팀
 - RAG 기반 레시피 추천, 유통기한 임박 시 웹 푸시 알림
 - Docker 컨테이너(web/ai/proxy/frontend/db) 5개로 분리 배포
 - `기획 단계 OCR+YOLO → 개발 중 멀티모달 LLM 단독 방식으로 전환` 등 설계 의사결정 과정 포함
-- **담당**: 프론트-백엔드 API 연동, 소셜 로그인/API 키 발급, 백엔드-AI서버-LLM 통신 구조 설계
+- **담당**: 백엔드
 
 ---
 
