@@ -3,7 +3,7 @@
 AI 소프트웨어를 전공하며 백엔드/시스템 설계에 관심이 많은 개발자입니다.
 
 - 🎓 한국폴리텍대학 서울정수캠퍼스 인공지능소프트웨어학과 재학 중
-- 🎯 목표: 
+- 🎯 목표: 돈 많은 백숙
 - 🔧 관심 분야: 백엔드 API 설계, 서버 인프라(Docker), LLM 연동 서비스
 - 📫 연락처: sj297916@gmail.com
 
@@ -68,12 +68,17 @@ AI 기반 식재료 유통기한 관리 & 레시피 추천 서비스 · 4인 팀
 - 정보처리산업기사(ing)
 - G-TELP 38%
 - 한국사능력검정시험 1급
+
+## 📜 기타
+
 - 운전면허 2종 보통
-- 카페바리스타 1,2급
 - 지게차운전기능사
+- 카페바리스타 1,2급
+- ITQ(한글A, 파워포인트C)
 
 ---
 
 ## 📊 GitHub 통계
 
-![성준's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongjun1011&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seongjun1011)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjun1011&layout=compact)
