@@ -88,4 +88,4 @@ AI 기반 식재료 유통기한 관리 & 레시피 추천 서비스 · 4인 팀
 ## 📊 GitHub 통계
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seongjun1011)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjun1011&layout=compact)
+![Top Langs](https://github-readme-stats-sepia-eight.vercel.app/api/top-langs/?username=seongjun1011&layout=compact)
