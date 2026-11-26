@@ -52,7 +52,7 @@ AI 소프트웨어를 전공하며 백엔드/시스템 설계에 관심이 많�
 
 ## 📌 대표 프로젝트
 
-### [SmartPantry (SMPA)](https://github.com/seongjun1011/SmartPantryAI_Project)
+### [SmartPantry](https://github.com/seongjun1011/SmartPantryAI_Project)
 AI 기반 식재료 유통기한 관리 & 레시피 추천 서비스 · 4인 팀 프로젝트 (백엔드 담당)
 - 영수증/식재료 사진을 로컬 LLM(Gemma, Ollama)이 인식해 유통기한 자동 계산·등록
 - RAG 기반 레시피 추천, 유통기한 임박 시 웹 푸시 알림
@@ -61,7 +61,7 @@ AI 기반 식재료 유통기한 관리 & 레시피 추천 서비스 · 4인 팀
 - **담당**: 백엔드
 
 
-### [Study With Me (SWM)](https://github.com/seongjun1011/study-with-me)
+### [Study With Me](https://github.com/seongjun1011/study-with-me)
 내 공부 노트로 문제를 만들고, 모든 문제에서 노트 원문 위치로 돌아갈 수 있는 개인 공부 웹 서비스 · 개인 프로젝트 (설계·구현 전체)
 - 내가 정리한 .md/.txt 노트를 로컬 LLM(Qwen3, Ollama)이 읽어 개념 객관식 문제 생성, 문제마다 파일 › 제목 › 줄 번호로 원문 추적
 - 코드·계산 문제는 모델이 아니라 노트 코드를 실제 실행하고 풀이기로 계산해 정답 결정
@@ -71,7 +71,7 @@ AI 기반 식재료 유통기한 관리 & 레시피 추천 서비스 · 4인 팀
 - `규칙 검증만으로 못 잡는 "정답 둘" 문제 → 모델 재풀이 판정 추가`, `노트 코드 실행 우회 → audit hook 감시 훅·자원 제한` 등 측정 → 개선 과정 포함
 - **담당**: 기획·설계·프론트(React)·백엔드(Node.js)·AI(Python) 전체
 
-
+### [SmartArm_Sorter](https://github.com/seongjun1011/SmartArm_Sorter)
 ## ⏳ 진행중(ing) 프로젝트
 
 ### [BookMarket_Project](https://github.com/seongjun1011/BookMarket_Project)
