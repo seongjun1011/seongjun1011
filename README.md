@@ -72,6 +72,14 @@ AI 기반 식재료 유통기한 관리 & 레시피 추천 서비스 · 4인 팀
 - **담당**: 기획·설계·프론트(React)·백엔드(Node.js)·AI(Python) 전체
 
 ### [SmartArm_Sorter](https://github.com/seongjun1011/SmartArm_Sorter)
+강화학습으로 3관절 로봇 팔이 컨베이어 위 물체를 집어 색깔별로 분류하는 시뮬레이션 · 개인 프로젝트
+- Unity 물리엔진(ArticulationBody)으로 만든 팔을 Python RL 에이전트(Stable-Baselines3 SAC)가 TCP로 제어
+- Unity는 물리·사실만 보고하고, 상태·보상·종료 판정·학습은 전부 Python에서 처리
+- 잠재 함수 기반 보상 설계로 "집기 → 옮기기 → 놓기" 다단계 과제를 하나의 보상으로 학습 (들었다 놓기 반복으로 점수 버는 꼼수 차단)
+- 단계별 확장: 목표 지점 도달(PPO 변형 4개 vs SAC 비교) → 집어서 색깔별 분류(20/20) → 컨베이어 연속 분류
+- 추가 학습 없이 학습된 정책을 재사용해 컨베이어 **30/30 분류 성공, 잘못 분류 0, 분당 22.6개**
+- `컨베이어 첫 시연 성공률 30%` → `실패 원인 진단(상자에 쌓인 물체, 장애물 끼임, 시작 자세 차이)` → `환경 조정만으로 100%` 등 학습 분포와 실제 환경의 차이를 줄인 과정 포함
+- **담당**: 환경 설계(Unity C#)·보상 설계·학습·평가(Python) 전체
 ## ⏳ 진행중(ing) 프로젝트
 
 ### [BookMarket_Project](https://github.com/seongjun1011/BookMarket_Project)
